@@ -14,5 +14,6 @@
 // to ignite an app we use npx package_name file_name . this helps in launching / executing the app.
 // now let us ignite our app. for that we use the above command that helps us to execute the package we want.
 // the difference between npm : that installs the package and npx: executes the package.
-//
+//to run this react code in previous chrome we use browserlist: this helps us to run our code every where.
+
 

@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "there is nothing in this just to manage packages",
   "scripts": {
+    "start" : "parcel index.html",
+    "build" : "parcel build index.html",
     "test": "jest"
   },
   "repository": {
